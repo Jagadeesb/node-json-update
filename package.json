@@ -1,0 +1,27 @@
+{
+  "name": "node-json-exercise",
+  "version": "1.0.0",
+  "description": "A simple node exercise to update the JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jagadeesb/node-json-update.git"
+  },
+  "author": "Jagadees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jagadeesb/node-json-update/issues"
+  },
+  "homepage": "https://github.com/Jagadeesb/node-json-update#readme",
+  "dependencies": {
+    "is-valid-json": "^1.0.2",
+    "mocha": "^4.1.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
